@@ -99,5 +99,5 @@ The best way to showcase skills is by doing and sharing your job done but someti
 - [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.: linkedin.com/in/prashant-wadhave-48137625a )
+- LinkedIn: [@Prashant wadhave](https://www.linkedin.com/in/prashant-wadhave-48137625a )
 - Email: prashantwadhave5@gmail.com
